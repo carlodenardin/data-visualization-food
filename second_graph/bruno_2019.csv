@@ -1,0 +1,81 @@
+Element,Item,Value
+Feed,Cereals,987181.0
+Feed,Fats and oils,49211.0
+Feed,Fish and seafood,22814.84
+Feed,Fruits,2653.0
+Feed,Meat,98.0
+Feed,Milk and eggs,27850.0
+Feed,Offals,939.0
+Feed,Pulses,18151.0
+Feed,Roots and tubers,166318.0
+Feed,Spices,0.0
+Feed,Stimulants,2.0
+Feed,Sugar,86926.0
+Feed,Vegetables,54385.0
+Food,Alcoholic beverages,244445.0
+Food,Cereals,1336995.0
+Food,Fats and oils,172039.0
+Food,Fish and seafood,172159.49
+Food,Fruits,607199.0
+Food,Meat,330247.0
+Food,Milk and eggs,618266.0
+Food,Miscellaneous,6919.0
+Food,Offals,17845.0
+Food,Pulses,54528.0
+Food,Roots and tubers,509961.0
+Food,Spices,10547.0
+Food,Stimulants,15002.0
+Food,Sugar,239528.0
+Food,Treenuts,16317.0
+Food,Vegetables,1080871.0
+Losses,Alcoholic beverages,538.0
+Losses,Cereals,133893.0
+Losses,Fats and oils,42722.0
+Losses,Fruits,73196.0
+Losses,Meat,1760.0
+Losses,Milk and eggs,30253.0
+Losses,Offals,1428.0
+Losses,Pulses,4684.0
+Losses,Roots and tubers,78797.0
+Losses,Spices,771.0
+Losses,Stimulants,1062.0
+Losses,Sugar,133074.0
+Losses,Treenuts,1190.0
+Losses,Vegetables,110002.0
+Other uses (non-food),Alcoholic beverages,22916.0
+Other uses (non-food),Cereals,265430.0
+Other uses (non-food),Fats and oils,134765.0
+Other uses (non-food),Fish and seafood,15298.48
+Other uses (non-food),Fruits,168.0
+Other uses (non-food),Meat,0.0
+Other uses (non-food),Milk and eggs,771.0
+Other uses (non-food),Miscellaneous,0.0
+Other uses (non-food),Offals,216.0
+Other uses (non-food),Pulses,31.0
+Other uses (non-food),Roots and tubers,40359.0
+Other uses (non-food),Spices,427.0
+Other uses (non-food),Stimulants,64.0
+Other uses (non-food),Sugar,435187.0
+Other uses (non-food),Treenuts,39.0
+Other uses (non-food),Vegetables,4.0
+Processing,Alcoholic beverages,2618.0
+Processing,Cereals,110762.0
+Processing,Fats and oils,884816.0
+Processing,Fruits,64634.0
+Processing,Meat,970.0
+Processing,Milk and eggs,252650.0
+Processing,Offals,369.0
+Processing,Pulses,766.0
+Processing,Roots and tubers,17855.0
+Processing,Stimulants,5071.0
+Processing,Sugar,1544673.0
+Processing,Vegetables,1189.0
+Seed,Cereals,73067.0
+Seed,Fats and oils,13534.0
+Seed,Fish and seafood,512.05
+Seed,Milk and eggs,6115.0
+Seed,Pulses,4767.0
+Seed,Roots and tubers,33160.0
+Seed,Sugar,31201.0
+Seed,Treenuts,0.0
+Seed,Vegetables,14.0

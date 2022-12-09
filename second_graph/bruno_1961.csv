@@ -1,0 +1,82 @@
+Element,Item,Value
+Feed,Cereals,289169
+Feed,Fats and oils,3073
+Feed,Fish and seafood,9235.95
+Feed,Fruits,1817
+Feed,Meat,34
+Feed,Milk and eggs,92039
+Feed,Offals,560
+Feed,Pulses,5831
+Feed,Roots and tubers,99369
+Feed,Stimulants,0
+Feed,Sugar,21675
+Feed,Vegetables,6365
+Food,Alcoholic beverages,80313
+Food,Cereals,392837
+Food,Fats and oils,41419
+Food,Fish and seafood,27862.89
+Food,Fruits,115038
+Food,Meat,70342
+Food,Milk and eggs,244135
+Food,Miscellaneous,27
+Food,Offals,4709
+Food,Pulses,28771
+Food,Roots and tubers,234391
+Food,Spices,1604
+Food,Stimulants,5550
+Food,Sugar,68954
+Food,Treenuts,2628
+Food,Vegetables,194215
+Losses,Alcoholic beverages,496
+Losses,Cereals,31956
+Losses,Fats and oils,3387
+Losses,Fruits,15459
+Losses,Meat,225
+Losses,Milk and eggs,7138
+Losses,Miscellaneous,0
+Losses,Offals,67
+Losses,Pulses,1463
+Losses,Roots and tubers,37075
+Losses,Spices,64
+Losses,Stimulants,75
+Losses,Sugar,11799
+Losses,Treenuts,137
+Losses,Vegetables,20110
+Other uses (non-food),Alcoholic beverages,3176
+Other uses (non-food),Cereals,9597
+Other uses (non-food),Fats and oils,9609
+Other uses (non-food),Fish and seafood,1154.53
+Other uses (non-food),Fruits,191
+Other uses (non-food),Meat,214
+Other uses (non-food),Milk and eggs,9772
+Other uses (non-food),Miscellaneous,0
+Other uses (non-food),Offals,758
+Other uses (non-food),Pulses,30
+Other uses (non-food),Roots and tubers,8548
+Other uses (non-food),Spices,15
+Other uses (non-food),Stimulants,53
+Other uses (non-food),Sugar,12486
+Other uses (non-food),Treenuts,26
+Other uses (non-food),Vegetables,393
+Processing,Alcoholic beverages,1255
+Processing,Cereals,18189
+Processing,Fats and oils,74012
+Processing,Fruits,35999
+Processing,Meat,-80
+Processing,Milk and eggs,3
+Processing,Pulses,3
+Processing,Roots and tubers,7973
+Processing,Stimulants,4
+Processing,Sugar,531121
+Processing,Treenuts,1
+Processing,Vegetables,117
+Seed,Cereals,60943
+Seed,Fats and oils,5250
+Seed,Fish and seafood,136.2
+Seed,Milk and eggs,634
+Seed,Pulses,4245
+Seed,Roots and tubers,46654
+Seed,Sugar,8583
+Seed,Treenuts,0
+Seed,Vegetables,46
+Losses,Fish and seafood,0
